@@ -1,5 +1,4 @@
 # Cheatsheet
 
-# Content
-
-- [GO](./sheets/GO.md)
+- [Go](./sheets/Go.md)
+- [Kubernetes](./sheets/Kubernetes.md)

@@ -1,4 +1,4 @@
-# GO
+# Go
 
 - [Go](https://go.dev/doc/): A general-purpose language.
 - [Echo](https://echo.labstack.com/docs): A web framework for Go to handle HTTP requests.
